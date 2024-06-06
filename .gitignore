@@ -1,0 +1,8 @@
+venv
+.env
+__pycache__
+
+static/asatidz/*
+!static/asatidz/__init__.py
+static/santri/*
+!static/santri/__init__.py
